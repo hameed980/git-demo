@@ -5,3 +5,10 @@ print(name)
 
 user = input("enter your name")
 print(user)
+
+
+var = "hello world"
+city = "karachi"
+
+
+
