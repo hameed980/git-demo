@@ -10,5 +10,7 @@ print(user)
 var = "hello world"
 city = "karachi"
 
+user = input("enter your name. ")
+print(user)
 
 
