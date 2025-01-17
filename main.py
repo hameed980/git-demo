@@ -13,4 +13,5 @@ city = "karachi"
 user = input("enter your name. ")
 print(user)
 
-
+var = "hello abdul"
+print(var)
