@@ -1,4 +1,6 @@
 print("hello world")
+print("hello world")
+
 
 name = "abdul hameed"
 print(name)
